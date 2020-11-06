@@ -1,0 +1,17 @@
+{
+	"name": "datasinkdw",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSynapseAnalytics2",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Test"
+		}
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}
