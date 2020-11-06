@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--leocanary4",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/00baffc3-c40a-4478-a424-4bdc9566c82a/resourceGroups/leorg/providers/Microsoft.Synapse/workspaces/leocanary4",
+		"groupId": "sql",
+		"fqdns": [
+			"leocanary4.47feeb86-7b6a-44ef-9581-9b5004ee9aeb.sql.azuresynapse.net"
+		]
+	}
+}
