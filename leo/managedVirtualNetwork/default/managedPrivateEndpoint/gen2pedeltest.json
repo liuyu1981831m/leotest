@@ -1,0 +1,7 @@
+{
+	"name": "gen2pedeltest",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/00baffc3-c40a-4478-a424-4bdc9566c82a/resourceGroups/leorg/providers/Microsoft.Storage/storageAccounts/leocanarygen23",
+		"groupId": "dfs"
+	}
+}
