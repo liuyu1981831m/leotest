@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--leocanaryvnettest",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d3bb3b2e-9a7e-4194-9960-5171bd192117/resourceGroups/leorg/providers/Microsoft.Synapse/workspaces/leocanaryvnettest",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"leocanaryvnettest-ondemand.d2b5efa5-3c90-4c57-925a-201083d359b7.sql.azuresynapse.net"
+		]
+	}
+}
