@@ -1,0 +1,9 @@
+{
+	"name": "leoeusvnet",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4b86c03-be97-4cb2-9d7a-b8ad72225925",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
