@@ -1,0 +1,8 @@
+{
+	"name": "AzureBlobStorage803",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d3bb3b2e-9a7e-4194-9960-5171bd192117/resourceGroups/leoBicep/providers/Microsoft.Storage/storageAccounts/leobicepgen2",
+		"groupId": "blob",
+		"resourceId": "/subscriptions/7e2c6818-ef44-4d8f-b0a5-8cdce9322ca6/resourceGroups/vnet-7e2c6818-eastus2euap-173-rg/providers/Microsoft.Network/privateEndpoints/leotestpe.AzureBlobStorage803"
+	}
+}
