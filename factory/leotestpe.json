@@ -1,0 +1,9 @@
+{
+	"name": "leotestpe",
+	"location": "eastus2euap",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2b893ef-eca7-41ea-a1ec-27334153a7c3",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
