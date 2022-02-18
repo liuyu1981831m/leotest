@@ -2,7 +2,7 @@
 	"name": "AzureDataLakeStorage1",
 	"properties": {
 		"privateLinkResourceId": "/subscriptions/d3bb3b2e-9a7e-4194-9960-5171bd192117/resourceGroups/testconnection/providers/Microsoft.Storage/storageAccounts/leoblob",
-		"groupId": "dfs",
+		"groupId": "dfghfghfs",
 		"fqdns": [
 			"leoblob.dfs.core.windows.net"
 		],
