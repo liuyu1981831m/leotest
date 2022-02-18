@@ -1,0 +1,9 @@
+{
+	"name": "AzureBlobStorage836",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/58f879ed-d25e-4b3f-80b0-6001b2c279e0/resourceGroups/RG07cdbb3ad8484f3781d8/providers/Microsoft.Storage/storageAccounts/048a950298214591839dec2",
+		"groupId": "blob",
+		"ipAddress": null,
+		"resourceId": "/subscriptions/7e2c6818-ef44-4d8f-b0a5-8cdce9322ca6/resourceGroups/vnet-7e2c6818-eastus2euap-173-rg/providers/Microsoft.Network/privateEndpoints/leotestpe.AzureBlobStorage836"
+	}
+}
